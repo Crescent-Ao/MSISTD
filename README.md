@@ -7,7 +7,7 @@ The constructed MSISDT dataset has 1077 images, which includes a total of 1343 i
 
 You can get the data from this url https://drive.google.com/drive/folders/15YOZIh91PGOrdQ81oLg7b-Zb-cOcjWRq?usp=sharing
 
-if you find this dataset useful, please cite SIRST and MSISTD. 
+if you find this dataset useful, please cite SIRST and MSISTD and star this repo. I will release the crop&paste repo
 ```
 @inproceedings{dai2021asymmetric,
   title={Asymmetric contextual modulation for infrared small target detection},
