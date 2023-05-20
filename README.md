@@ -10,12 +10,14 @@ You can get the data from this url. You can get the data from this url https://d
 if you find this dataset useful, please cite SIRST and MSISTD and star this repo. I will release the PGDA
 
 ```
-@inproceedings{dai2021asymmetric,
-  title={Asymmetric contextual modulation for infrared small target detection},
-  author={Dai, Yimian and Wu, Yiquan and Zhou, Fei and Barnard, Kobus},
-  booktitle={Proceedings of the IEEE/CVF Winter conference on applications of computer Vision},
-  pages={950--959},
-  month=Jan,
-  year={2021}
-}
+@ARTICLE{9954129,
+  author={Wang, Ao and Li, Wei and Huang, Zhanchao and Wu, Xin and Jie, Feiran and Tao, Ran},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Prior-Guided Data Augmentation for Infrared Small Target Detection}, 
+  year={2022},
+  volume={15},
+  number={},
+  pages={10027-10040},
+  doi={10.1109/JSTARS.2022.3222758}}
+
 ```
